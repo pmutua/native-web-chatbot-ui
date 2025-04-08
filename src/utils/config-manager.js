@@ -4,6 +4,7 @@ export const defaultConfig = {
     resizable: true,
     position: 'bottom-right',
     theme: 'light',
+    css_styling: ``,
     bubbleStyle: {},
     fontSize: '1rem',
     apiKey: '',
