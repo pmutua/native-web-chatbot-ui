@@ -5,7 +5,7 @@
 
 A resizable, draggable, and customizable chatbot interface web component, supporting real-time streaming responses and framework-agnostic integration.
 
-![Chatbot UI Demo Preview](./demo/assets/demo.gif)
+https://github.com/user-attachments/assets/73bb5b7f-0022-4768-93d5-75d05784711b
 
 ## Features (wip)
 
