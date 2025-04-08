@@ -28,7 +28,7 @@ Add the library to the angular.json file so Angular includes it in the build pro
 Create a declaration file to make TypeScript aware of the library:
 
 ```typescript
-// src/app/native-web-chatbot-ui.d.ts
+// src/typings/native-web-chatbot-ui.d.ts
 declare module 'native-web-chatbot-ui/dist/main.js' {
   const content: any;
   export default content;
